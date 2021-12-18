@@ -138,7 +138,7 @@ namespace PolishNotationApp
             string y = "";
             string x = exptxtbox.Text;
             string norm = "";
-
+//Abdulsayed
             int ans = 0;
             if (Char.IsDigit(x[0]) || !Char.IsDigit(x[x.Length - 1]))
             {
